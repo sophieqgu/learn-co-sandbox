@@ -1,3 +1,0 @@
-class PlayGOT::Scraper
-  
-end 
